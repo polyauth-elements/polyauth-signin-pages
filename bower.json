@@ -1,0 +1,33 @@
+{
+  "name": "polyauth-signin-pages",
+  "version": "0.1.0",
+  "description": "Organizes a sign-in and sign-out pages and shows one at a time",
+  "main": [
+    "polyauth-signin-pages.html"
+  ],
+  "authors": [
+    "Andrei Nesterov <ae.nesterov@polyauth.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*.md",
+    "bower_components",
+    "test",
+    "demo"
+  ],
+  "keywords": [
+    "polyauth",
+    "web-component",
+    "web-components",
+    "polymer",
+    "sign-in",
+    "authentication",
+    "container"
+  ],
+  "dependencies": {
+    "polymer": "^1.0.0",
+    "iron-pages": "PolymerElements/iron-pages#^1.0.0",
+    "polyauth-element": "polyauth-elements/polyauth-element#^0.1.0"
+  }
+}
